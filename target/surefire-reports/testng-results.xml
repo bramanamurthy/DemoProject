@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45317" started-at="2019-07-06T07:05:14Z" finished-at="2019-07-06T07:05:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="45317" started-at="2019-07-06T07:05:14Z" finished-at="2019-07-06T07:05:59Z">
+      <class name="com.automationcicd.DemoProject.TestClass">
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.automationcicd.DemoProject.TestClass@5fcfca62]" name="launchDriver" is-config="true" duration-ms="3596" started-at="2019-07-06T07:05:14Z" finished-at="2019-07-06T07:05:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.automationcicd.DemoProject.TestClass@5fcfca62]" name="test1" duration-ms="7863" started-at="2019-07-06T07:05:17Z" finished-at="2019-07-06T07:05:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.automationcicd.DemoProject.TestClass@5fcfca62]" name="launchDriver" is-config="true" duration-ms="3965" started-at="2019-07-06T07:05:25Z" finished-at="2019-07-06T07:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.automationcicd.DemoProject.TestClass@5fcfca62]" name="test2" duration-ms="18685" started-at="2019-07-06T07:05:29Z" finished-at="2019-07-06T07:05:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.automationcicd.DemoProject.TestClass@5fcfca62]" name="launchDriver" is-config="true" duration-ms="2745" started-at="2019-07-06T07:05:48Z" finished-at="2019-07-06T07:05:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.automationcicd.DemoProject.TestClass@5fcfca62]" name="test3" duration-ms="8417" started-at="2019-07-06T07:05:51Z" finished-at="2019-07-06T07:05:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- com.automationcicd.DemoProject.TestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

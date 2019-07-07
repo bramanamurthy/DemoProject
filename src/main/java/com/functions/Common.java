@@ -27,6 +27,8 @@ public class Common
 		
 		try {
 			FileUtils.copyFile(src,fs);
+			
+			System.out.println("Screenshot captured successfully");
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

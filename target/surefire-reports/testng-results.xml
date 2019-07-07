@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="96203" started-at="2019-07-07T15:13:59Z" finished-at="2019-07-07T15:15:36Z">
+  <suite name="Suite" duration-ms="40291" started-at="2019-07-07T16:00:22Z" finished-at="2019-07-07T16:01:02Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="96203" started-at="2019-07-07T15:13:59Z" finished-at="2019-07-07T15:15:36Z">
+    <test name="Test" duration-ms="40291" started-at="2019-07-07T16:00:22Z" finished-at="2019-07-07T16:01:02Z">
       <class name="com.automationcicd.DemoProject.TestClass">
-        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.automationcicd.DemoProject.TestClass@608bc8f8]" name="launchDriver" is-config="true" duration-ms="23209" started-at="2019-07-07T15:13:59Z" finished-at="2019-07-07T15:14:23Z">
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.automationcicd.DemoProject.TestClass@3a22bad6]" name="launchDriver" is-config="true" duration-ms="5913" started-at="2019-07-07T16:00:22Z" finished-at="2019-07-07T16:00:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchDriver -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.automationcicd.DemoProject.TestClass@608bc8f8]" name="test1" duration-ms="8787" started-at="2019-07-07T15:14:23Z" finished-at="2019-07-07T15:14:31Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.automationcicd.DemoProject.TestClass@3a22bad6]" name="test1" duration-ms="12917" started-at="2019-07-07T16:00:28Z" finished-at="2019-07-07T16:00:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.automationcicd.DemoProject.TestClass@608bc8f8]" name="launchDriver" is-config="true" duration-ms="31545" started-at="2019-07-07T15:14:31Z" finished-at="2019-07-07T15:15:03Z">
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.automationcicd.DemoProject.TestClass@3a22bad6]" name="launchDriver" is-config="true" duration-ms="2478" started-at="2019-07-07T16:00:41Z" finished-at="2019-07-07T16:00:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchDriver -->
-        <test-method status="PASS" signature="test2()[pri:0, instance:com.automationcicd.DemoProject.TestClass@608bc8f8]" name="test2" duration-ms="10263" started-at="2019-07-07T15:15:03Z" finished-at="2019-07-07T15:15:13Z">
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.automationcicd.DemoProject.TestClass@3a22bad6]" name="test2" duration-ms="8180" started-at="2019-07-07T16:00:44Z" finished-at="2019-07-07T16:00:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
-        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.automationcicd.DemoProject.TestClass@608bc8f8]" name="launchDriver" is-config="true" duration-ms="15617" started-at="2019-07-07T15:15:13Z" finished-at="2019-07-07T15:15:29Z">
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.automationcicd.DemoProject.TestClass@3a22bad6]" name="launchDriver" is-config="true" duration-ms="2616" started-at="2019-07-07T16:00:52Z" finished-at="2019-07-07T16:00:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchDriver -->
-        <test-method status="PASS" signature="test3()[pri:0, instance:com.automationcicd.DemoProject.TestClass@608bc8f8]" name="test3" duration-ms="6751" started-at="2019-07-07T15:15:29Z" finished-at="2019-07-07T15:15:36Z">
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.automationcicd.DemoProject.TestClass@3a22bad6]" name="test3" duration-ms="8156" started-at="2019-07-07T16:00:54Z" finished-at="2019-07-07T16:01:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test3 -->

@@ -47,6 +47,8 @@ public class TestClass
 		Common.highlightElement(driver, btnClose);
 		btnClose.click();
 				
+		Common.captureScreenShot(driver);
+				
 		driver.navigate().to("https://www.google.com/");
 		
 		System.out.println("Page Title: "+driver.getTitle());	

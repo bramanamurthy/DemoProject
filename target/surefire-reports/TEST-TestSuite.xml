@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="35.542" tests="3" errors="0" skipped="0" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="97.327" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -59,33 +59,12 @@
     <property name="java.vm.info" value="mixed mode"/>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="java.vm.version" value="25.181-b13"/>
-    <property name="classworlds.conf" value="C:\Users\Ramana\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf5254695549766591660.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\Ramana\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf6531584630629459538.tmp"/>
     <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="test1" classname="com.automationcicd.DemoProject.TestClass" time="10.422"/>
-  <testcase name="test2" classname="com.automationcicd.DemoProject.TestClass" time="11.126"/>
-  <testcase name="test3" classname="com.automationcicd.DemoProject.TestClass" time="1.338">
-    <failure message="unknown error: cannot determine loading status&#10;from disconnected: received Inspector.detached event&#10;  (Session info: chrome=75.0.3770.100)&#10;  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;DESKTOP-NQ15T5F&apos;, ip: &apos;192.168.43.214&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\Ramana\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 75.0.3770.100, webStorageEnabled: true}&#10;Session ID: 6210ae78cd171c512c200ec92bad1651" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: 
-unknown error: cannot determine loading status
-from disconnected: received Inspector.detached event
-  (Session info: chrome=75.0.3770.100)
-  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-NQ15T5F', ip: '192.168.43.214', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\Ramana\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 75.0.3770.100, webStorageEnabled: true}
-Session ID: 6210ae78cd171c512c200ec92bad1651
-	at com.automationcicd.DemoProject.TestClass.test3(TestClass.java:43)
-</failure>
-    <system-out><![CDATA[./
-]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab) on port 29499
-Only local connections are allowed.
-Jul 06, 2019 9:40:43 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: OSS
-]]></system-err>
-  </testcase>
+  <testcase name="test1" classname="com.automationcicd.DemoProject.TestClass" time="8.783"/>
+  <testcase name="test2" classname="com.automationcicd.DemoProject.TestClass" time="10.263"/>
+  <testcase name="test3" classname="com.automationcicd.DemoProject.TestClass" time="6.751"/>
 </testsuite>
